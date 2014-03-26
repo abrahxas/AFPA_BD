@@ -1,0 +1,3 @@
+Pour l'administrateur:
+login=Administrateur
+password=azerty
